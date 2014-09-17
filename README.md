@@ -3,7 +3,7 @@ org.csstudio.composite.sandbox
 
 P2 composite repo for sharing sandbox features
 
-To share your features with the CS-Studio Community, you can edit the the compositeArtifacts.xml and compositeContent.xml to include your p2 site.  The IUs will be available on downloads.controlsystemstudio.org/sandbox as a P2 update site on commit to this repo.
+To share your features with the CS-Studio Community, you can edit the the compositeArtifacts.xml and compositeContent.xml to include your p2 site.  The IUs will be available on http://downloads.controlsystemstudio.org/sandbox/4.0 as a P2 update site on commit to this repo.
 
 P2 repos can be served from your personal webspace or even github as in the example, just add your child location:
 
