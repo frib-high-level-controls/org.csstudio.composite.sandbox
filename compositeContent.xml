@@ -9,8 +9,7 @@
     <!-- get new time w/ `date +%s000` -->
     <property name='p2.timestamp' value='1395756034000'/>
   </properties>
-  <children size='1'>
+  <children size='0'>
   	<!-- Child order matters for dependency resolution -->
- 	<child location="https://github.com/berryma4/p2/raw/master/rocs/4.0"/>
   </children>
 </repository>
